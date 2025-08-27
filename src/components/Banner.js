@@ -62,7 +62,7 @@ export const Banner = () => {
                             <span className='tagline'> Welcome to my Portfolio</span>
                             <h1>{'Hi I am Deepanshu'}<br/>
                             <span className='wrap'> {text}</span></h1>
-                            <p>lorem ipsum dollar is simply a dummy text djfko dnfsioin dfshio njdiosahni djfisoh </p>
+                            <p></p>
                             <button onClick={handleLetsConnectClick}>Let's Connect <ArrowRightCircle size={25} /> </button>
                         </div>
                       }
